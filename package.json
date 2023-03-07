@@ -1,0 +1,26 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "team's profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalpana-Sivaprakash/Profile-generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kalpana-Sivaprakash/Profile-generator/issues"
+  },
+  "homepage": "https://github.com/Kalpana-Sivaprakash/Profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "jest": "^29.5.0"
+  }
+}
